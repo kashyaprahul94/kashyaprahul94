@@ -19,18 +19,18 @@
 <table align="center" border="0">
     <tr>
         <td align="center">
-					<img align="left" src="https://github-readme-stats.vercel.app/api?username=kashyaprahul94&show_icons=true&theme=onedark&locale=en" alt="kashyaprahul94" />
+					<img align="left" src="https://github-readme-stats.vercel.app/api?username=kashyaprahul94&show_icons=true&theme=onedark&locale=en&111" alt="kashyaprahul94" />
 			</td>
         <td align="center">
-					<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kashyaprahul94&show_icons=true&theme=onedark&locale=en&layout=compact" alt="kashyaprahul94" />
+					<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kashyaprahul94&show_icons=true&theme=onedark&locale=en&layout=compact&111" alt="kashyaprahul94" />
 			</td>
     </tr>
     <tr>
         <td align="center">
-					  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kashyaprahul94&theme=onedark" alt="kashyaprahul94" />
+					  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kashyaprahul94&theme=onedark&111" alt="kashyaprahul94" />
 			</td>
         <td align="center">
-					<img align="right" src="https://github-profile-trophy.vercel.app/?username=kashyaprahul94&theme=onedark&column=3&margin-w=5&margin-h=5" alt="kashyaprahul94" />
+					<img align="right" src="https://github-profile-trophy.vercel.app/?username=kashyaprahul94&theme=onedark&column=3&margin-w=5&margin-h=5&111" alt="kashyaprahul94" />
 			</td>
     </tr>
 </table>
